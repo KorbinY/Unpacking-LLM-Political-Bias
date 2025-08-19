@@ -1,4 +1,5 @@
-# Repository for *Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models*  
+## Overview
+This is the repo of our work *Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models*  
 
 > *Note: The paper title may change depending on submission policies.*
 > *This work is currently under review.*
